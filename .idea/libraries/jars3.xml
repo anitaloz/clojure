@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jars3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mire01/jars/clojure-contrib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mire01/jars/clojure.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
